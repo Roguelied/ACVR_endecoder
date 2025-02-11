@@ -1,6 +1,6 @@
 Atbash, Caesar, Vigenere, RSA de/encryption project
 ---
-### Implementation of Atbash, Caesar, Vigenere, RSA (Messy) ciphers, decryption and encryption algorithms
+### Implementation of Atbash, Caesar, Vigenere, RSA (messy) ciphers, decryption and encryption algorithms
 
 ---
 
